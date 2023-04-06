@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test-pizza.github.io/static/css/main.eeaf3eae.css",
+    "main.js": "/test-pizza.github.io/static/js/main.8a515f08.js",
+    "Cart.js": "/test-pizza.github.io/static/js/Cart.e547e838.chunk.js",
+    "FullPizza.js": "/test-pizza.github.io/static/js/FullPizza.96e3ba4d.chunk.js",
+    "NotFound.js": "/test-pizza.github.io/static/js/NotFound.36312dfb.chunk.js",
+    "static/media/empty-cart.png": "/test-pizza.github.io/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/test-pizza.github.io/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/test-pizza.github.io/index.html",
+    "main.eeaf3eae.css.map": "/test-pizza.github.io/static/css/main.eeaf3eae.css.map",
+    "main.8a515f08.js.map": "/test-pizza.github.io/static/js/main.8a515f08.js.map",
+    "Cart.e547e838.chunk.js.map": "/test-pizza.github.io/static/js/Cart.e547e838.chunk.js.map",
+    "FullPizza.96e3ba4d.chunk.js.map": "/test-pizza.github.io/static/js/FullPizza.96e3ba4d.chunk.js.map",
+    "NotFound.36312dfb.chunk.js.map": "/test-pizza.github.io/static/js/NotFound.36312dfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeaf3eae.css",
+    "static/js/main.8a515f08.js"
+  ]
+}
